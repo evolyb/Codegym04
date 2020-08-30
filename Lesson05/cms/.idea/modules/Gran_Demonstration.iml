@@ -3,7 +3,9 @@
   <component name="FacetManager">
     <facet type="hibernate" name="Hibernate">
       <configuration>
-        <datasource-map />
+        <datasource-map>
+          <unit-entry name="out:production:resources:hibernate.conf.xml" value="1d22a74d-f710-40de-a4ee-874da97a02be" />
+        </datasource-map>
         <naming-strategy-map />
         <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/../../out/production/resources/hibernate.conf.xml" />
       </configuration>
