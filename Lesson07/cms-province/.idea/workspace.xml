@@ -28,164 +28,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7eefd70-08fc-48af-8003-ec3a8644deb9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.gradle/6.3/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.gradle/6.3/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.gradle/6.3/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.gradle/6.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.gradle/6.3/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.gradle/6.5/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/classes/java/main/com/codegym/cms/ApplicationConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/classes/java/main/com/codegym/cms/ApplicationInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/classes/java/main/com/codegym/cms/controller/CustomerController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/classes/java/main/com/codegym/cms/model/Customer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/classes/java/main/com/codegym/cms/repository/CustomerRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/classes/java/main/com/codegym/cms/repository/Repository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/classes/java/main/com/codegym/cms/repository/impl/CustomerRepositoryImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/classes/java/main/com/codegym/cms/service/CustomerService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/classes/java/main/com/codegym/cms/service/impl/CustomerServiecImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/classes/com/codegym/cms/ApplicationConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/classes/com/codegym/cms/ApplicationInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/classes/com/codegym/cms/controller/CustomerController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/classes/com/codegym/cms/model/Customer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/classes/com/codegym/cms/repository/CustomerRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/classes/com/codegym/cms/repository/Repository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/classes/com/codegym/cms/repository/impl/CustomerRepositoryImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/classes/com/codegym/cms/service/CustomerService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/classes/com/codegym/cms/service/impl/CustomerServiecImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/antlr-2.7.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/aspectjrt-1.8.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/attoparser-2.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/byte-buddy-1.8.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/classmate-1.3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/dom4j-1.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/hibernate-commons-annotations-5.0.3.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/hibernate-core-5.3.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/hibernate-entitymanager-5.3.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/jandex-2.0.3.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/javassist-3.22.0-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/javax.persistence-api-2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/javax.servlet-api-3.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.0.1.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/jcl-over-slf4j-1.7.25.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/mysql-connector-java-8.0.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/protobuf-java-2.6.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/slf4j-api-1.7.25.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/spring-aop-4.3.17.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/spring-beans-4.3.17.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/spring-context-4.3.17.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/spring-core-4.3.17.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/spring-data-commons-1.13.12.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/spring-data-jpa-1.11.12.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/spring-expression-4.3.17.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/spring-jdbc-4.3.17.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/spring-orm-4.3.17.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/spring-tx-4.3.17.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/spring-web-4.3.17.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/spring-webmvc-4.3.17.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/thymeleaf-3.0.9.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/thymeleaf-spring4-3.0.9.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/unbescape-1.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/views/customer/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/views/customer/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/views/customer/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/views/customer/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/build/tmp/war/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/src/main/java/com/codegym/cms/ApplicationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/src/main/java/com/codegym/cms/ApplicationInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/src/main/java/com/codegym/cms/controller/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/src/main/java/com/codegym/cms/model/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/src/main/java/com/codegym/cms/repository/CustomerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/src/main/java/com/codegym/cms/repository/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/src/main/java/com/codegym/cms/repository/impl/CustomerRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/src/main/java/com/codegym/cms/service/CustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/src/main/java/com/codegym/cms/service/impl/CustomerServiecImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/src/main/webapp/WEB-INF/views/customer/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/src/main/webapp/WEB-INF/views/customer/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/src/main/webapp/WEB-INF/views/customer/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/src/main/webapp/WEB-INF/views/customer/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.3/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.5/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/ApplicationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/ApplicationInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/controller/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/controller/ProvinceController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/formatter/ProvinceFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/model/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/model/Province.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/repository/CustomerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/repository/ProvinceRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/service/CustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/service/ProvinceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/service/impl/CustomerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/service/impl/ProvinceServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customer/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customer/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customer/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customer/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/error.404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/province/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/province/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/province/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/province/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/province/view.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/.gradle/6.5/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/src/main/java/com/codegym/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/src/main/java/com/codegym/ApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/src/main/java/com/codegym/controller/PhoneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/src/main/java/com/codegym/model/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/src/main/resources/ValidationMessages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/phone-validate/src/main/webapp/WEB-INF/views/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/validate-infor-user/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/validate-infor-user/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/validate-infor-user/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/validate-infor-user/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/validate-infor-user/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/validate-infor-user/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/validate-infor-user/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/validate-infor-user/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/validate-infor-user/src/main/java/com/codegym/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/validate-infor-user/src/main/java/com/codegym/ApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/validate-infor-user/src/main/java/com/codegym/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/validate-infor-user/src/main/java/com/codegym/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/validate-infor-user/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson08/validate-infor-user/src/main/webapp/WEB-INF/views/result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lesson01/MoneyExchange/.gradle/vcs-1/desktop.ini" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Lesson01/SimpleMVC/.gradle/6.5.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lesson01/SimpleMVC/.gradle/6.5.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Lesson01/SimpleMVC/.gradle/6.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lesson01/SimpleMVC/.gradle/6.5.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Lesson01/SimpleMVC/.gradle/6.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lesson01/SimpleMVC/.gradle/6.5.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -512,7 +398,206 @@
       <change beforePath="$PROJECT_DIR$/../../Lesson06/CustomerManagement/src/main/java/com/codegym/cms/service/CustomerServiceImpl.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Lesson06/CustomerManagement/src/main/webapp/WEB-INF/views/customer/create.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Lesson06/CustomerManagement/src/main/webapp/WEB-INF/views/customer/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lesson06/newCMS/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lesson06/newCMS/src/main/java/com/codegym/cms/ApplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lesson06/newCMS/src/main/java/com/codegym/cms/ApplicationConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Lesson06/spring-jpa-customer-management/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/.gradle/6.3/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/.gradle/6.3/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/.gradle/6.5/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/.gradle/6.5/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/classes/java/main/com/codegym/cms/ApplicationConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/classes/java/main/com/codegym/cms/ApplicationInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/antlr-2.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/aspectjrt-1.8.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/attoparser-2.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/byte-buddy-1.8.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/classmate-1.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/dom4j-1.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/hibernate-commons-annotations-5.0.3.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/hibernate-core-5.3.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/hibernate-entitymanager-5.3.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/jandex-2.0.3.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/javassist-3.22.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/javax.persistence-api-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/javax.servlet-api-3.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.0.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/jcl-over-slf4j-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/mysql-connector-java-8.0.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/protobuf-java-3.11.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/slf4j-api-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/spring-aop-4.3.17.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/spring-beans-4.3.17.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/spring-context-4.3.17.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/spring-core-4.3.17.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/spring-data-commons-1.13.12.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/spring-data-jpa-1.11.12.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/spring-expression-4.3.17.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/spring-jdbc-4.3.17.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/spring-orm-4.3.17.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/spring-tx-4.3.17.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/spring-web-4.3.17.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/spring-webmvc-4.3.17.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/thymeleaf-3.0.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/thymeleaf-spring4-3.0.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/WEB-INF/lib/unbescape-1.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/libs/exploded/customer-mvc-1.0-SNAPSHOT.war/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/src/main/java/com/codegym/cms/ApplicationConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-mvc/src/main/java/com/codegym/cms/ApplicationInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.gradle/6.3/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.gradle/6.3/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.gradle/6.3/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.gradle/6.3/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.gradle/6.3/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.gradle/6.3/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.gradle/6.3/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.gradle/6.3/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.gradle/6.5/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.gradle/6.5/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/classes/java/main/com/codegym/cms/ApplicationConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/classes/java/main/com/codegym/cms/ApplicationInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/classes/java/main/com/codegym/cms/controller/CustomerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/classes/java/main/com/codegym/cms/model/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/classes/java/main/com/codegym/cms/repository/CustomerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/classes/java/main/com/codegym/cms/repository/Repository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/classes/java/main/com/codegym/cms/repository/impl/CustomerRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/classes/java/main/com/codegym/cms/service/CustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/classes/java/main/com/codegym/cms/service/impl/CustomerServiecImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/classes/com/codegym/cms/ApplicationConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/classes/com/codegym/cms/ApplicationInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/classes/com/codegym/cms/controller/CustomerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/classes/com/codegym/cms/model/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/classes/com/codegym/cms/repository/CustomerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/classes/com/codegym/cms/repository/Repository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/classes/com/codegym/cms/repository/impl/CustomerRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/classes/com/codegym/cms/service/CustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/classes/com/codegym/cms/service/impl/CustomerServiecImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/antlr-2.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/aspectjrt-1.8.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/attoparser-2.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/byte-buddy-1.8.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/classmate-1.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/dom4j-1.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/hibernate-commons-annotations-5.0.3.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/hibernate-core-5.3.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/hibernate-entitymanager-5.3.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/jandex-2.0.3.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/javassist-3.22.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/javax.persistence-api-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/javax.servlet-api-3.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.0.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/jcl-over-slf4j-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/mysql-connector-java-8.0.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/protobuf-java-2.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/slf4j-api-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/spring-aop-4.3.17.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/spring-beans-4.3.17.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/spring-context-4.3.17.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/spring-core-4.3.17.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/spring-data-commons-1.13.12.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/spring-data-jpa-1.11.12.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/spring-expression-4.3.17.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/spring-jdbc-4.3.17.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/spring-orm-4.3.17.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/spring-tx-4.3.17.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/spring-web-4.3.17.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/spring-webmvc-4.3.17.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/thymeleaf-3.0.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/thymeleaf-spring4-3.0.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/lib/unbescape-1.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/views/customer/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/views/customer/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/views/customer/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/WEB-INF/views/customer/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/libs/exploded/newCMS-1.0-SNAPSHOT.war/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/src/main/java/com/codegym/cms/ApplicationConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/src/main/java/com/codegym/cms/ApplicationInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/src/main/java/com/codegym/cms/controller/CustomerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/src/main/java/com/codegym/cms/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/src/main/java/com/codegym/cms/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/src/main/java/com/codegym/cms/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/src/main/java/com/codegym/cms/service/impl/CustomerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/src/main/webapp/WEB-INF/views/customer/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/src/main/webapp/WEB-INF/views/customer/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/src/main/webapp/WEB-INF/views/customer/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/src/main/webapp/WEB-INF/views/customer/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/src/main/webapp/WEB-INF/views/error.404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-province/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newCMS/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newCMS/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newCMS/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newCMS/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newCMS/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newCMS/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newCMS/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newCMS/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newCMS/src/main/java/com/codegym/cms/ApplicationConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newCMS/src/main/java/com/codegym/cms/ApplicationInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newCMS/src/main/java/com/codegym/cms/controller/CustomerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newCMS/src/main/java/com/codegym/cms/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newCMS/src/main/java/com/codegym/cms/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newCMS/src/main/java/com/codegym/cms/repository/Repository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newCMS/src/main/java/com/codegym/cms/repository/impl/CustomerRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newCMS/src/main/java/com/codegym/cms/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newCMS/src/main/java/com/codegym/cms/service/impl/CustomerServiecImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newCMS/src/main/webapp/WEB-INF/views/customer/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newCMS/src/main/webapp/WEB-INF/views/customer/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newCMS/src/main/webapp/WEB-INF/views/customer/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newCMS/src/main/webapp/WEB-INF/views/customer/list.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -559,13 +644,30 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.24022989" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 9.0.371" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.371" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -651,7 +753,12 @@
       <workItem from="1597912009262" duration="160000" />
       <workItem from="1597912312755" duration="3594000" />
       <workItem from="1597934587975" duration="2682000" />
-      <workItem from="1597972119114" duration="6465000" />
+      <workItem from="1597972119114" duration="6933000" />
+      <workItem from="1597992668949" duration="15000" />
+      <workItem from="1598463698687" duration="56000" />
+      <workItem from="1598464117758" duration="85000" />
+      <workItem from="1598491241986" duration="14000" />
+      <workItem from="1598613053173" duration="1012000" />
     </task>
     <servers />
   </component>
@@ -674,14 +781,14 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="582" y="255" width="530" height="217" key="#Assign_Data_Sources" timestamp="1597937218477">
+    <state x="582" y="255" width="530" height="217" key="#Assign_Data_Sources" timestamp="1598613523992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="582" y="255" width="530" height="217" key="#Assign_Data_Sources/0.0.1366.728@0.0.1366.728" timestamp="1597937218477" />
-    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597912356663">
+    <state x="582" y="255" width="530" height="217" key="#Assign_Data_Sources/0.0.1366.728@0.0.1366.728" timestamp="1598613523992" />
+    <state x="274" y="91" width="1092" height="637" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598613497541">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1597912356663" />
+    <state x="274" y="91" width="1092" height="637" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1598613497541" />
     <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1597936575799">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -690,53 +797,61 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597912348383" />
-    <state width="905" height="177" key="GridCell.Tab.0.bottom" timestamp="1597982073982">
+    <state width="905" height="257" key="GridCell.Tab.0.bottom" timestamp="1598614069271">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597982073982" />
-    <state width="905" height="177" key="GridCell.Tab.0.center" timestamp="1597982073982">
+    <state width="905" height="257" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598614069271" />
+    <state width="905" height="257" key="GridCell.Tab.0.center" timestamp="1598614069271">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="177" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597982073982" />
-    <state width="905" height="177" key="GridCell.Tab.0.left" timestamp="1597982073982">
+    <state width="905" height="257" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598614069271" />
+    <state width="905" height="257" key="GridCell.Tab.0.left" timestamp="1598614069271">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="177" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597982073982" />
-    <state width="905" height="177" key="GridCell.Tab.0.right" timestamp="1597982073982">
+    <state width="905" height="257" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598614069271" />
+    <state width="905" height="257" key="GridCell.Tab.0.right" timestamp="1598614069271">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="177" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597982073982" />
-    <state width="905" height="177" key="GridCell.Tab.1.bottom" timestamp="1597982073748">
+    <state width="905" height="257" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598614069271" />
+    <state width="905" height="257" key="GridCell.Tab.1.bottom" timestamp="1598614069275">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="177" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597982073748" />
-    <state width="905" height="177" key="GridCell.Tab.1.center" timestamp="1597982073748">
+    <state width="905" height="257" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598614069275" />
+    <state width="905" height="257" key="GridCell.Tab.1.center" timestamp="1598614069271">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="177" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1597982073748" />
-    <state width="905" height="177" key="GridCell.Tab.1.left" timestamp="1597982073748">
+    <state width="905" height="257" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1598614069271" />
+    <state width="905" height="257" key="GridCell.Tab.1.left" timestamp="1598614069271">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="177" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1597982073748" />
-    <state width="905" height="177" key="GridCell.Tab.1.right" timestamp="1597982073748">
+    <state width="905" height="257" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1598614069271" />
+    <state width="905" height="257" key="GridCell.Tab.1.right" timestamp="1598614069271">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="177" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1597982073748" />
-    <state width="905" height="177" key="GridCell.Tab.2.bottom" timestamp="1597982073748">
+    <state width="905" height="257" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1598614069271" />
+    <state width="905" height="257" key="GridCell.Tab.2.bottom" timestamp="1598614069275">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="177" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597982073748" />
-    <state width="905" height="177" key="GridCell.Tab.2.center" timestamp="1597982073748">
+    <state width="905" height="257" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598614069275" />
+    <state width="905" height="257" key="GridCell.Tab.2.center" timestamp="1598614069275">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="177" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1597982073748" />
-    <state width="905" height="177" key="GridCell.Tab.2.left" timestamp="1597982073748">
+    <state width="905" height="257" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1598614069275" />
+    <state width="905" height="257" key="GridCell.Tab.2.left" timestamp="1598614069275">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="177" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1597982073748" />
-    <state width="905" height="177" key="GridCell.Tab.2.right" timestamp="1597982073748">
+    <state width="905" height="257" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1598614069275" />
+    <state width="905" height="257" key="GridCell.Tab.2.right" timestamp="1598614069275">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="177" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1597982073748" />
+    <state width="905" height="257" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1598614069275" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1598613246982">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598613246982" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1598613434628">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1598613434628" />
   </component>
 </project>
